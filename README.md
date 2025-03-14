@@ -66,10 +66,8 @@ Choose a browser → Select a test file → Click run
 ```
 
 ###  **6. Run And Viewing Test Result Video**
-```bash
-```
 
-To open the Cypress Test Runner (GUI):
+To open terminal in project:
 ```bash
 npx cypress run --spec "cypress/e2e/"
 ```
